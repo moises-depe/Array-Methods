@@ -1,4 +1,4 @@
-const map = require('./map')
+const map = require('./map');
 
 describe('map function',() => {
     
