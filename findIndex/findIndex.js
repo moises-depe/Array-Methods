@@ -9,6 +9,4 @@ const findIndex = (array, callback) => {
     return index;
   };
 
-  module.exports = {
-    findIndex
-  };
+  module.exports = findIndex;
